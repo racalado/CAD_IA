@@ -4,7 +4,7 @@ import streamlit as st
 st.title("CAD.IA - Soluções em Inteligência Artificial")
 
 # Exibir logo
-st.image("assets/logo.png", use_column_width=True)
+st.image("assets/logo.jpg", use_column_width=True)
 
 # Descrição da Startup
 st.header("Sobre a CAD.IA")
