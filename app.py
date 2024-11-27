@@ -15,7 +15,7 @@ Nosso objetivo é fornecer ferramentas inovadoras que ajudem empresas a otimizar
 
 # Links para trabalhos e portfólios
 st.header("Trabalhos e Portfólios")
-st.write("[Portfolio 1](https://dresscodeanalyzing.streamlit.app/)")
+st.write("[Portfolio 1 - Análise de Vestimenta](https://dresscodeanalyzing.streamlit.app/)")
 st.write("[Portfolio 2 - Github Rafael](https://github.com/racalado)")
 st.write("[Portfolio 3 - Github Diego](https://github.com/diegooliveiradearaujo)")
 st.write("[Portfolio 4 - Github Fábio](https://github.com/maxsampa)")
